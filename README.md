@@ -3,6 +3,8 @@
 npm install mid-logger --save
 
 in app.js
+
+
 var midLogger = require('mid-logger');
 app.user(midLogger);
 
