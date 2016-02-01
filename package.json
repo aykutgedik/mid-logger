@@ -1,0 +1,28 @@
+{
+  "name": "mid-logger",
+  "version": "1.0.0",
+  "description": "Logger Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutgedik/mid-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "express"
+  ],
+  "author": "Aykut Gedik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aykutgedik/mid-logger/issues"
+  },
+  "homepage": "https://github.com/aykutgedik/mid-logger#readme",
+  "dependencies": {
+    "fs-plus": "^2.8.1",
+    "winston": "^2.1.1"
+  }
+}
