@@ -1,6 +1,6 @@
 # mid-logger for node.js
 
-npm install mid-logger --save
+npm install mid-logger
 
 in app.js
 
